@@ -1,0 +1,26 @@
+% 2______________________________________________________
+% 1st_question
+syms z
+eqn1 = 5*z^2 - 2*z + 2;
+Z = solve(eqn1)
+% 2nd_question
+syms x
+eqn2 = x^3-0.2*x^2-0.25*x + 0.05;
+X = solve(eqn2)
+% 3rd_question
+syms y
+eqn3 =  y^3-0.2*y^2-0.25*y + 0.05;
+Y = solve(eqn3)
+% 4th_question
+syms a
+eqn4 = a^4 + 2.5*a^3 + 2.1*a^2 - 0.5*a + 0.04;
+A = solve(eqn4)
+
+%3_____________________________________________________________
+
+syms s
+k = tf ([0,2],[1,4])
+Ts = 0.1
+Kd = c2d(k,Ts, 'zoh')
+
+
