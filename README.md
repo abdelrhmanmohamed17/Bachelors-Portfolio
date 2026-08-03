@@ -43,7 +43,7 @@ the interesting result is usually the gap between them, not the number itself.
 
 | | | |
 |---|---|---|
-| **B.Sc. Computer Science** — grade 1.2 (German scale) | Alexandria University | [📄 transcript](https://drive.google.com/file/d/1Zt8ABBGQkPF9GgBjlKXBlPtQEJZ96jZL/view?usp=sharing) |
+| **B.Sc. Computer Science** — grade 1.2 (German scale) | Alexandria University | — |
 | **IELTS Academic 7.0** (C1) | British Council | [📄 certificate](https://drive.google.com/file/d/1Wns2S9ekVGWo9dKNmUyE-kyWkJ6gof2E/view?usp=sharing) |
 | **Mathematics for Machine Learning** Specialization | Coursera · Aug 2023 | [✓ verify](https://www.coursera.org/account/accomplishments/specialization/BWET366VK6V4) |
 | **Getting Started with Git and GitHub** | Coursera · Jul 2023 | [✓ verify](https://www.coursera.org/account/accomplishments/verify/86H6NWTNJDFL) |
