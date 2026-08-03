@@ -90,7 +90,6 @@ semantics. The project needed both — they solve different problems.
 ```
 Bachelors-Portfolio/
 ├── README.md
-├── CV.md  ·  CV.txt                      ← full CV, markdown + ATS-plain-text
 │
 ├── 01-Code-Safari-AI-Tutor/              ← ⭐ graduation project
 ├── 02-Machine-Learning/
