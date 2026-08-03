@@ -217,5 +217,4 @@ aren't committed. Every project README says how to regenerate them.
 ---
 
 <div align="center">
-<sub>B.Sc. Computer Science, Alexandria University (1.2) · M.Sc. Artificial Intelligence, FAU Erlangen-Nürnberg</sub>
 </div>
